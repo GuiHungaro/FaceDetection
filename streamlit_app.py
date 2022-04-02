@@ -1,7 +1,7 @@
 #01.Importar as bibliotecas necessárias.
 import streamlit as st
 from PIL import Image
-import opencv-python as cv2
+import cv2
 import numpy as np
 
 #02.Logo aplicativo.
