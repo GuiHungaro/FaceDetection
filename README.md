@@ -5,3 +5,12 @@
 FaceDetection é um aplicativo na nuvem utilizando a biblioteca [Streamlit](https://streamlit.io/) (Python) para rodar um modelo de classificação de rostos utilizando o [OpenCV](https://opencv.org/). 
 
 Para acessá-lo [Clique aqui](link_streamlit). 
+
+----
+
+Para fazer o reconhecimento facial irei utilizar um algoritmo chamado Haar Cascade, os seus modelos podem ser encontrados no [repositório do GitHub](https://github.com/opencv/opencv/tree/master/data/haarcascades).
+
+Para este projeto em específico escolhi o modelo [haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
+
+
+
