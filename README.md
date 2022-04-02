@@ -27,6 +27,6 @@ Depois que o upload seja feito, rode o modelo do Haar Cascade para reconheciment
 
 # ATENÇÃO:
 
-* Este projeto é apenas uma brincadeira para integrar a biblioteca OpenCV com o Streamlit e rodar um aplicativo de reconhecimento facial. O site em si não possuí nenhuma aplicação comercial. 
+* Este projeto é apenas uma brincadeira para integrar a biblioteca OpenCV com o Streamlit e rodar um aplicativo de reconhecimento facial. O aplicativo em si não possuí nenhuma aplicação comercial na forma como esta. 
 
 * Detecção de objetos em uma imagem pode ser muito utilizado em diversas aplicações do mundo real, como contar clientes em uma loja, contar carros que passam em uma rua, detectar ameaças (assaltos, sequestros, etc).
