@@ -1,4 +1,10 @@
-![alt text](faces_rec2.png)
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="faces_rec2.png"
+  >
+</p>
 
 ![alt text](FaceDetection.png)
 
