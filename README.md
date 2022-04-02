@@ -32,3 +32,5 @@ No final são desenhados retângulos onde as faces foram reconhecidas na imagem 
 * Este projeto é apenas uma brincadeira para integrar a biblioteca OpenCV com o Streamlit e rodar um aplicativo de reconhecimento facial. O aplicativo em si não possuí nenhuma aplicação comercial na forma como esta. 
 
 * Detecção de objetos em uma imagem pode ser muito utilizado em diversas aplicações do mundo real, como contar clientes em uma loja, contar carros que passam em uma rua, detectar ameaças (assaltos, sequestros, etc).
+
+* Este projeto demorou 2h40 para ser feito.
