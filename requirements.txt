@@ -1,5 +1,5 @@
 streamlit
-opencv
+opencv-python
 pip==22.0.4
 pillow
 numpy
