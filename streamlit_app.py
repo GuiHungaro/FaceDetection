@@ -26,7 +26,7 @@ if foto_reconhecimento:
       imagem_cinza = cv2.cvtColor(imagem_original, cv2.COLOR_BGR2GRAY)
 
       #03.d.Rodando o modelo.
-      haar_cascade_face = cv2.CascadeClassifier('/content/haarcascade_frontalface_default.xml')
+      haar_cascade_face = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
       faces = haar_cascade_face.detectMultiScale(imagem_cinza,
                                            scaleFactor=1.09,
                                            minNeighbors=5,
