@@ -10,11 +10,9 @@ Para acessá-lo [Clique aqui](link_streamlit).
 
 Para fazer o reconhecimento facial irei utilizar um algoritmo chamado Haar Cascade, os seus modelos podem ser encontrados no [repositório do GitHub](https://github.com/opencv/opencv/tree/master/data/haarcascades).
 
-Neste projeto teremos 3 modelos de reconhecimento:
+Neste projeto teremos este modelo de reconhecimento:
 
   - 01.[Reconhecimento facial](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
-  - 02.[Reconhecimento de sorriso](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_smile.xml)
-  - 03.[Reconhecimento de olho](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml)
 
 
 
