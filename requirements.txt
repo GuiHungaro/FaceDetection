@@ -1,3 +1,4 @@
 streamlit
 cv2
 pip==22.0.4
+pillow
