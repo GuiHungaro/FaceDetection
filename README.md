@@ -1,10 +1,10 @@
+![alt text](faces_rec2.png)
+
 ![alt text](FaceDetection.png)
 
 # FaceDetection
 
-FaceDetection é um aplicativo na nuvem utilizando a biblioteca [Streamlit](https://streamlit.io/) (Python) para rodar um modelo de classificação de rostos utilizando o [OpenCV](https://opencv.org/). 
-
-Para acessá-lo [Clique aqui](https://share.streamlit.io/guihungaro/facedetection/main). 
+FaceDetection é um aplicativo na nuvem utilizando a biblioteca [Streamlit](https://streamlit.io/) (Python) para rodar um modelo de classificação de rostos utilizando o [OpenCV](https://opencv.org/). Para acessá-lo [Clique aqui](https://share.streamlit.io/guihungaro/facedetection/main). 
 
 ----
 
@@ -19,7 +19,7 @@ A ideia é que o usuário possa fazer o upload da foto que deseja detectar o nú
 
 ![alt text](upload.png)
 
-Depois que o upload seja feito, a foto é convertida para a biblioteca OpenCV leia, transforme em escalas de cinza e depois rode o modelo do Haar Cascade para reconhecimento facial.
+Depois que o upload seja feito, a foto é convertida para a biblioteca *OpenCV*, transformada em escalas de cinza e depois o aplicativo roda o modelo do *Haar Cascade* para reconhecimento facial.
 
 No final são desenhados retângulos onde as faces foram reconhecidas na imagem original e a imagem é exibida.
 
