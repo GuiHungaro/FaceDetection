@@ -11,11 +11,11 @@ FaceDetection é um aplicativo na nuvem utilizando a biblioteca [Streamlit](http
 
 ## 01. Sobre o projeto.
 
-Para fazer o reconhecimento facial irei utilizar um algoritmo chamado Haar Cascade, os seus modelos podem ser encontrados no [repositório do GitHub](https://github.com/opencv/opencv/tree/master/data/haarcascades).
+Para fazer o reconhecimento facial irei utilizar um algoritmo chamado Haar Cascade, os seus modelos podem ser encontrados no [repositório do GitHub.](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 Neste projeto teremos este modelo de reconhecimento:
 
-  - 01.[Reconhecimento facial](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
+  - 01.[Reconhecimento facial.](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
 
 
 A ideia é que o usuário possa fazer o upload da foto que deseja detectar o número de faces.
