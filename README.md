@@ -24,7 +24,7 @@ Depois que o upload seja feito, a foto é convertida para a biblioteca *OpenCV*,
 
 No final são desenhados retângulos onde as faces foram reconhecidas na imagem original e a imagem é exibida.
 
-![alt text](faces_rec2.png)
+![alt text](lena.png)
 
 ----
 
