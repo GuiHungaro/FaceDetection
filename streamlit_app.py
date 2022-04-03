@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 
 #02.Logo aplicativo.
-logo = Image.open("FaceDetection.png")
+logo = Image.open("FaceDetection2.png")
 st.image(logo, caption='', use_column_width=True)
 
 #03. Foto para fazer reconhecimento facial.
